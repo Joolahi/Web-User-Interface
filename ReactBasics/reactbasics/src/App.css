@@ -1,0 +1,33 @@
+/* src/App.css */
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+button {
+  font-size: 18px;
+  margin: 10px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.increaseButton {
+  background-color: #28a745;
+  color: blueviolet;
+}
+
+.decreaseButton {
+  color: palegreen;
+  background-color: #dc3545;
+}
+
+button:hover {
+  background-color: #007bff;
+  color: white;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}

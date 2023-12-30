@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.header {
+  background-color: #183D3D;
+  padding: 10px 0px 0px 0px;
+  color: #93B1A6;
+}
+
+.link{
+  text-decoration: none;
+  color: #93B1A6;
+  padding: 10px;
+  font-size: larger;
+}
+
+.nav{
+  padding-bottom: 30px;
+}
+
+.link:hover{
+  color: #040D12;
+}

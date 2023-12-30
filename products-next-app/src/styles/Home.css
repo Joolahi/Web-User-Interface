@@ -1,0 +1,34 @@
+.home-container{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    background-image: url('../media/home_backGround.jpg');
+}
+
+.page-header{
+    font-size: 3rem;
+    color: #93B1A6;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 20%;
+}
+
+.info-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8%;
+    width: 40%;
+    height: 50%;
+    background-color: #183D3D;
+    border-radius: 10px;
+    margin-left: -100px;
+}
+.info{
+    font-size: 1.5rem;
+    color: #93B1A6;
+    text-align: center;
+    margin-top: 5px;
+
+}
